@@ -1,0 +1,37 @@
+{
+  "firstName": "Santiago",
+  "lastName": "Zapata Barahona",
+  "shortDescription": "Tengo 20 años, soy estudiante de Ingenieria de Sistemas en la UdeA y aprendiz de conduccion de vehiculo de pasajeros del metro de Medellín",
+  "profession" : "Ingeniero de sistemas",
+  "workExperiences": [
+    {
+      "endDate": "Still working",
+      "enterprise": "Metro de Medellín",
+      "uid": "1",
+      "postDescription": "Conductor de pasajeros tipo metro",
+      "startDate": "2/03/2023"
+    }
+  ],
+  "education":[
+    {
+      "institution" : "Liceo francisco restrepo molina",
+      "courseName" : "Bachiller",
+      "courseDescription" : "Graduado en 2019"
+    },
+    {
+      "institution" : "Universidad de Antioquia",
+      "courseName" : "Ingenieria de Sistmeas",
+      "courseDescription" : "Actualmente estudiando"
+    }
+  ],
+  "knowledgeAndSkills": [
+    {
+      "name" : "Felicidad",
+      "description" : "Yo me parcho a ser feliz con mis amigxss"
+    },
+    {
+      "name" : "Puntualidad",
+      "description" : "Soy muy puntual porque en mi empresa es un requisito imprescindible"
+    }
+  ]
+}
